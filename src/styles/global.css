@@ -1,6 +1,6 @@
 html {
-  background-color: #f1f5f9;
-  font-family: sans-serif;
+  background-color: #e8eaed;
+  font-family: "Monaco", monospace;
 }
 
 body {
@@ -31,14 +31,14 @@ h1 {
   width: 40px;
   height: 5px;
   margin-bottom: 10px;
-  background-color: #ff9776;
+  background-color: #918989;
 }
 
 .nav-links {
   width: 100%;
   top: 5rem;
   left: 48px;
-  background-color: #ff9776;
+  background-color: #918989;
   display: none;
   margin: 0;
 }
@@ -55,7 +55,7 @@ h1 {
 
 .nav-links a:hover,
 .nav-links a:focus {
-  background-color: #ff9776;
+  background-color: #918989;
 }
 
 .expanded {
